@@ -1,0 +1,5 @@
+1. 전체 패키지 생성
+2. 기본 파일 6개 생성 (C-S-R, Req, Resp, Entity)
+3. README.md (테이블 DDL)
+4. 더미 데이터 세팅
+5. Github Push (Master)
